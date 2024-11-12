@@ -188,8 +188,16 @@ p {
 	gap: 1rem;
 }
 
+.workflow-lead {
+	margin-bottom: -2rem;
+}
+
 .tools-title {
 	margin: 2rem 0 1rem 0;
+}
+
+.tools > img:nth-of-type(1) {
+	margin-top: 2.5rem;
 }
 
 /* Company Logos */
